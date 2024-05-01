@@ -13,7 +13,7 @@ const Header: React.FC = () => {
 
             <div className="flex justify-between"  >
                 <h2 className="text-3xl font-serif font-bold text-gray-950 ml-3"> {userInfo.name} </h2>
-                <a className="sitelogo px-3 py-1 flex justify-center" href="/homepage2">
+                <a className="sitelogo px-3 py-1 flex justify-center "   href="/homepage2">
                     <span className="text-4xl font-serif font-semibold uppercase leading-none text-stone-900 animate-bounce">
                         PORTFOLIO
                     </span>
